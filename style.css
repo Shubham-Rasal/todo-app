@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+body{
+    background-image:linear-gradient(rgb(75, 63, 63),rgb(65, 65, 65));
+    height:100vh;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(75, 63, 63);
+    padding: 2%;
+    font: size 10%;
+}
+
